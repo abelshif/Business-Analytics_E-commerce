@@ -1,1 +1,1 @@
-# Business-analytics-course
+# Business-analytics
